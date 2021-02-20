@@ -26,4 +26,4 @@ The metrics I used to evaluate my model included the Misclassification Rate, Acc
 
 Below are the results of one of my logisitic regression models that had been hyperparameter-tuned via GridSearchCV. I also generated the confusion matrix with plot_confusion_matrix and confusion_matrix:
 
-![alt text](model_output.jpg "Output")
+![Sample output](model_output.jpg "Output")
